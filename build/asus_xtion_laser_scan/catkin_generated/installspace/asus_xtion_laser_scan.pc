@@ -1,0 +1,8 @@
+prefix=/home/edu/turtlebot2/install
+
+Name: asus_xtion_laser_scan
+Description: Description of asus_xtion_laser_scan
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/edu/turtlebot2/install/lib 
+Requires: 

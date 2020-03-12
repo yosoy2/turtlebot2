@@ -1,0 +1,8 @@
+prefix=/home/edu/turtlebot2/devel
+
+Name: turtlebot_msgs
+Description: Description of turtlebot_msgs
+Version: 2.2.1
+Cflags: -I/home/edu/turtlebot2/devel/include
+Libs: -L/home/edu/turtlebot2/devel/lib 
+Requires: std_msgs sensor_msgs std_srvs message_runtime

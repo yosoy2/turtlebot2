@@ -1,0 +1,8 @@
+prefix=/home/edu/turtlebot2/devel
+
+Name: kobuki_msgs
+Description: Description of kobuki_msgs
+Version: 0.7.0
+Cflags: -I/home/edu/turtlebot2/devel/include
+Libs: -L/home/edu/turtlebot2/devel/lib 
+Requires: message_runtime std_msgs actionlib_msgs
